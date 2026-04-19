@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cted-kz.github.io/obrazcy/sitemap.xml
